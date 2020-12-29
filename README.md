@@ -15,7 +15,6 @@ pip3 install selenium
 # Install and add chrome driver to PATH
 cd CourSaver
 # Paste links to the course homepages in courses.txt
-LINKS TO THE COURSE HOMPAGES IN courses.txt
 python3 coursaver.py
 ```
 
